@@ -1,7 +1,7 @@
 # 
 ----
 
-# Water  Data Analysis Project
+# Water Quality Data Analysis Project
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ This repository contains a collection of Jupyter notebooks focused on explorator
 Clone this repository:
 
 ```
-git clone https://github.com/LM-Data-Science-Group-Project-Group-3/Water-Data-Analysis-
+https://github.com/dixitmj/Water_Quality
 ```
 
 Install required libraries:
